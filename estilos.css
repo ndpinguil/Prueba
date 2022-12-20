@@ -1,0 +1,132 @@
+.contenedor{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    height: auto;
+    align-content: center;
+    padding: 10px;
+}
+
+.banderacabeza{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: 500px;
+    border: 1px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
+
+.dinamarca{
+    width: 400px;
+    height: 200px;
+    border: 10px;
+    border-style: solid;
+    border-color: gray; 
+    background-color: red;
+    display: flex;
+
+}
+
+#barraUno{
+    width: 50px;
+    height: 200px;
+    background-color: white;
+    margin-left: 50px;
+}
+
+#barraDos{
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    background-color: white;  
+    align-self: center;
+}
+
+.foto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    margin: 30px;
+}
+
+.partidos{
+    width: auto;
+    height: auto;
+    border: 1px;
+    border-style: solid;
+    border-color: gray; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.NEGRO{
+    width: 400px;
+    height: 400px;
+    background-color: black; 
+    display: flex;
+    border: 1px;
+    border-radius: 15px;
+    margin: 30px;
+}
+
+#verde{
+    position: absolute;
+    width: 70px;
+    height: 350px;
+    margin: 30px;
+    background-color: green;  
+    align-self: center;
+}
+
+#blanca{
+    position: absolute;
+    width: 70px;
+    height: 300px;
+    margin-left: 130px;
+    background-color:white;  
+    align-self: center;
+}
+
+#roja{
+    position: absolute;
+    width: 70px;
+    height: 250px;
+    margin-left: 230px;
+    background-color:red;  
+    align-self: center;
+}
+
+.Ultimo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: 500px;
+    border: 1px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+    margin: 10px;
+}
+
+.xd{
+    display: flex;
+}
+
+.dinamarcaDos, .dinamarcaTres{
+    width: 400px;
+    height: 200px;
+    border: 5px;
+    border-style: solid;
+    border-color: gray; 
+    background-color: red;
+    display: flex;
+}
